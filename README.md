@@ -1,6 +1,6 @@
 # Prueba restaurantes
 
-Hola, este es el resultado final de la prueba de front-end. Para ver en vivo [Click aqui](https://susogarcia.me/restaurantes/)
+Hola, este es el resultado final de la prueba de front-end. Para ver en vivo [Click aqui](https://susogarcia.me/restaurante/)
 
 ## Características
 
